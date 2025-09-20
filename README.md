@@ -1,4 +1,5 @@
 # sanakov-ecommerce-analytics
 Exploring customer behavior and sales trends in Brazilian online retail.
 
-<img width="730" height="95" alt="image" src="https://github.com/user-attachments/assets/285d1bd6-8581-4621-94a9-ead0a825ce1d" />
+<img width="1523" height="738" alt="image" src="https://github.com/user-attachments/assets/ac4f5cc3-91fe-4992-a180-76d4086f022c" />
+
