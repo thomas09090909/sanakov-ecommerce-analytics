@@ -21,7 +21,9 @@ cd sanakov-ecommerce-analytics
 
 ## **Tools & Resources:**
 Python 3.10 — for data import, analysis, and running SQL queries
+
 pgAdmin — to manage PostgreSQL database and visualize tables
+
 Olist E-commerce Dataset — Brazilian online retail data (customers, orders, products, sellers, reviews)
 
 
