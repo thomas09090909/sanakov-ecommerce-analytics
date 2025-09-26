@@ -5,7 +5,7 @@
 Sanakov E-Commerce Analytics – A data analytics project focused on exploring customer behavior and sales trends in Brazilian online retail. The project analyzes customers, orders, products, sellers, and payments to generate insights such as top-selling products, average order values, delivery performance, and product review ratings.
 
 
-# **How to Run the Project**
+## **How to Run the Project**
 1. Clone the repository:
 git clone https://github.com/thomas09090909/sanakov-ecommerce-analytics.git
 2. Navigate to the project folder:
