@@ -19,5 +19,12 @@ cd sanakov-ecommerce-analytics
 7. Results will display in the terminal.
 
 
+## **Tools & Resources:**
+Python 3.10 — for data import, analysis, and running SQL queries
+pgAdmin — to manage PostgreSQL database and visualize tables
+Olist E-commerce Dataset — Brazilian online retail data (customers, orders, products, sellers, reviews)
+
+
+## **a database schema (ER diagram)**
 <img width="1523" height="738" alt="image" src="https://github.com/user-attachments/assets/ac4f5cc3-91fe-4992-a180-76d4086f022c" />
 
