@@ -1,0 +1,3 @@
+pandas — for data manipulation and reading CSVs.
+
+psycopg2-binary — for connecting Python to PostgreSQL.
