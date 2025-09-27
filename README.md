@@ -6,17 +6,23 @@ Sanakov E-Commerce Analytics – A data analytics project focused on exploring c
 
 
 ## **How to Run the Project**
-1. Clone the repository:
+Clone the repository:
 git clone https://github.com/thomas09090909/sanakov-ecommerce-analytics.git
-2. Navigate to the project folder:
+
+Navigate to the project folder:
 cd sanakov-ecommerce-analytics
-3. Ensure you have Python and PostgreSQL installed.
-4. Install required Python packages:
-   pip install -r requirements.txt
-5. Set up your PostgreSQL database and import the datasets.
-6. Run the main Python script to execute queries:
-   python main.py
-7. Results will display in the terminal.
+
+Ensure you have Python and PostgreSQL installed.
+
+Install required Python packages:
+pip install -r **requirements.txt**
+
+Set up your PostgreSQL database and import the datasets.
+
+Run the main Python script to execute queries:
+python **main.py**
+
+Results will display in the terminal.
 
 
 ## **Tools & Resources:**
